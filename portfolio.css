@@ -1,0 +1,84 @@
+body {
+    font-family: 'Roboto', sans-serif;
+}
+.upper-bar{
+    color: rgb(255, 249, 240);
+}
+.heading-name{
+    font-size: 17px;
+    font-weight: 350;
+    margin-top: -40px;
+    margin-bottom: 20px;
+    margin-left: 65px;
+    letter-spacing: 2px;
+}
+.web-dev{
+    font-size: 10px;
+    font-weight: 200;
+    margin-top: -18px;
+    margin-left: 66px;
+    letter-spacing: 4.9px;
+    color: rgb(129, 129, 129);
+}
+.portfolio-button{
+    font-size: 15px;
+    margin-top: -40px;
+    margin-left: 346px;
+}
+.about{
+    font-size: 15px;
+    margin-top: -32px;
+    margin-left: 426px;
+}
+.pricing{
+    font-size: 15px;
+    margin-top: -32px;
+    margin-left: 494px;
+}
+.reviews{
+    font-size: 15px;
+    margin-top: -32px;
+    margin-left: 565px;
+}
+.contacts{
+    font-size: 15px;
+    margin-top: -32px;
+    margin-left: 642px;
+}
+.logo{
+    display: inline-block;
+    height: 40px;
+    margin-top:  20px;
+    margin-left: 20px;
+}
+.title{
+    color: #D7D6D2;
+    margin-left: 35px;
+    margin-top: 170px;
+    letter-spacing: 4px;
+}
+.my-image{
+    height: 500px;
+    border-radius: 30%;
+    margin-left: 350px;
+    margin-top: -150px;
+}
+.intro{
+    color: #FEFAC2;
+    margin-top: -300px;
+    font-size: 90px;
+    margin-left: 30px;
+}
+.intro-2{
+    color: #FEFAC2;
+    margin-top: -110px;
+    font-size: 90px;
+    margin-left: 30px;
+}
+.alt-text{
+    color: #D7D6D2;
+    margin-left: 860px;
+    margin-top: -400px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: italic;
+}
